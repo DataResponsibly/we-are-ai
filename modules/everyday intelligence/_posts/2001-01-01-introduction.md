@@ -1,5 +1,5 @@
 ---
-title: Markdown & Media
+title: Introduction to Learning Circle
 ---
 
 # Everyday Intelligence 
