@@ -13,6 +13,8 @@ A computer algorithm is just like a cooking recipe: it solves a problem (e.g. pr
 
 In this activity, your job is to write out instructions for a far-away friend who is feeling sick and has requested a recipe for the best chicken noodle soup in the world to help them feel better. You can approach these instructions however you think is most effective.
 
+<br>
+
 ### Share (10 min)
 
 Take turns sharing your recipes. (For bigger groups, limit to 3–5 depending on time.)  Authors can share the written text or read the recipes out loud. 
