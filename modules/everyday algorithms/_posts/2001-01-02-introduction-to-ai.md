@@ -24,7 +24,7 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 
 ### Watch (10 min)
 
-_video embed to come_
+[private link to video—will be embedded on the page when course is launched](https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/view?usp=sharing)
 
 Watch "What’s “AI” Anyway?” (00:00)
 
