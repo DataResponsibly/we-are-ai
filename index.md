@@ -14,6 +14,8 @@ This 5-week learning circle course is designed to:
 * Explore the social and ethical dilemmas of AI use in modern life
 * Provide strategies to bring the benefits of AI to their lives and communities
 
+<br>
+
 #### Structure & Use
 
 Anyone can use this material to facilitate a learning group or educate themselves on the topic of AI. (No math, programming skills, or existing understanding of AI is required.)
