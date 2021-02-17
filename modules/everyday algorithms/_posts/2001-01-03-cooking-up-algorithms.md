@@ -14,14 +14,14 @@ A computer algorithm is just like a cooking recipe: it solves a problem (e.g. pr
 In this activity, your job is to write out instructions for making chicken soup using the template below. You can approach these instructions however you think is most effective.
 
 ```
-**List your ingredients:**
+1. List your ingredients:
   
-**Step-by-step recipe:**
-  
+2. Step-by-step recipe:
+
 Step 1:
 Step 2:
 Step 3:
-...
+(...)
 ```
 
 <br>
