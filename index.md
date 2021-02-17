@@ -3,21 +3,26 @@ layout: index
 published: true
 ---
 
-Artificial Intelligence is moving from the shadows into our everyday lives: AI controls what we see on Facebook, AI guides our product selections on Amazon, AI even influences our entertainment choices on Netflix. Beyond shopping and entertainment, AI is increasingly being used in more serious areas of life like law enforcement (deciding who gets bail) and hiring processes (whose resume gets reviewed or not).Given the growth of AI in our lives, we believe people should understand how AI works and how to contest or change it together! 
+Artificial Intelligence (“AI”) refers to a growing world of sophisticated computer programs that “learn” from data in order to make decisions. Many of these AI systems are invisible to the public, yet the results of the decisions they make (or help humans make) have a huge impact on modern life. 
 
-This five week learning circle will:
-* Familiarize participants with the basic components of AI 
-* Introduce participants to the current social and ethical dilemmas of AI use
-* Provide participants strategies to bring the benefits of AI to their lives and communities
+For many of us, AI primarily impacts the way we do things online: it controls whose updates we read on Facebook, the products we select on Amazon, and which movies we watch on Netflix. However, AI is increasingly being used to make decisions in more serious areas of life like hiring (e.g., whose resume gets reviewed and whose gets skipped), education (e.g. assigning grades based on past performance), and even law enforcement (e.g., deciding who gets bail).
 
-This learning circle will require the following software and hardware: Zoom, Google drive, a webcam and microphone. All sessions will take place via zoom. Instructional videos will be recorded and uploaded to youtube. Supplemental forms for some of the activities will be uploaded to google drive as well as PDFs of short (optional) readings. There are no math requirements, no need for previous experience with AI, or any computer programming skills necessary for this learning circle.
+Because of how important AI is in our lives, we should understand how it works _*so that we can control it together*_! The goal of this course is to build a shared understanding of AI so that we can make it work for the benefit of society.
 
-This learning circle has the following five modules:
+This 5-week learning circle course is designed to:
+* Introduce the basics of AI
+* Explore the social and ethical dilemmas of AI use in modern life
+* Provide strategies to bring the benefits of AI to their lives and communities
 
-* **Module 1:** Everyday Intelligence 
-* **Module 2:** Show me the Data 
-* **Module 3:** Decisions, Decisions, Decisions
-* **Module 4:** Who lives, Who dies?
-* **Module 5:** We are AI
+#### Structure & Use
 
-Each module will last for 90 minutes and take place via zoom. The flow of each meeting will vary but generally: participants will watch short instructional videos, discuss the subject matter,  and complete short activities. There is no homework (only optional supplemental readings) so all work takes place during the 90 minute weekly meeting.
+Anyone can use this material to facilitate a learning group or educate themselves on the topic of AI. (No math, programming skills, or existing understanding of AI is required.)
+
+This course is designed to be run as a [learning circle](https://www.p2pu.org/en/): a facilitated study group for people who want to meet regularly and learn about a topic with others. There are no teachers or students in a learning circle—it is a group where everyone learns the material together. The learning circle’s facilitator decides the meeting schedule, keeps the group on task during meetings, and supports individual learners’ participation and goals. ([Learn more about learning circle facilitation here.](https://www.p2pu.org/en/facilitate/)) 
+
+We designed this course with all the materials, discussion prompts, and activities needed to run a group with minimal preparation. The flow of each meeting will vary but generally: participants will watch short instructional videos, discuss the subject matter,  and complete short activities. There is no homework (only optional supplemental readings) so all work takes place during the meeting. Check each module for tips on facilitating specific material.
+
+*Recommended setup:*
+* Modules are designed to take 90 minutes for completion. We recommend meeting 90 min a week for 5 weeks to give the group time to connect with each other, invest in the topic, and see how the materials present in their daily lives.
+* This course can be used for in-person or online learning circles. 
+* If meeting online, we recommend a virtual meeting space like Zoom, Google drive, a webcam and microphone. Instructional videos will be recorded and uploaded to youtube. Supplemental forms for some of the activities and PDFs of short (optional) readings will be uploaded to google drive.
