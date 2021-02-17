@@ -4,7 +4,7 @@ title: Introduction to AI
 
 # Introduction to AI  (20 mins)
 
-“Artificial intelligence” refers to computer systems that use “algorithms” to learn from data in order to make decisions on humans’ behalf. In Module 1, we’ll explore algorithms: what they are, how they work, and how they relate to artificial intelligence.
+The term “Artificial Intelligence (AI)” refers to computer systems that use algorithms to learn from data in order to make decisions on behalf of a human. In Module 1, we will give an overview of AI and will explore algorithms: what they are, how they work, and how they relate to AI.  We will discuss _learning from data_ in Module 2 and _decisions_ in Module 3.
 
 <br>
 
@@ -22,11 +22,9 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 
 <br>
 
-### Watch (10 min)
+### Watch "What’s “AI” Anyway?” (10 min)
 
-[private link to video—will be embedded on the page when course is launched](https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/view?usp=sharing)
-
-Watch "What’s “AI” Anyway?” (00:00)
+[<iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" width="640" height="480"></iframe>
 
 As you watch the video, make notes of any vocabulary you don’t recognize or concepts that feel confusing.
 
