@@ -24,7 +24,7 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 
 ### Watch "What’s “AI” Anyway?” (10 min)
 
-[<iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" width="640" height="480"></iframe>
 
 As you watch the video, make notes of any vocabulary you don’t recognize or concepts that feel confusing.
 
