@@ -7,7 +7,7 @@ Artificial Intelligence (“AI”) refers to a growing world of sophisticated co
 
 For many of us, AI primarily impacts the way we do things online: it controls whose updates we read on Facebook, the products we select on Amazon, and which movies we watch on Netflix. However, AI is increasingly being used to make decisions in more serious areas of life like hiring (e.g., whose resume gets reviewed and whose gets skipped), education (e.g. assigning grades based on past performance), and even law enforcement (e.g., deciding who gets bail).
 
-Because of how important AI is in our lives, we should understand how it works _*so that we can control it together*_! The goal of this course is to build a shared understanding of AI so that we can make it work for the benefit of society.
+Because of how important AI is in our lives, we should understand how it works _**so that we can control it together**_! The goal of this course is to build a shared understanding of AI so that we can make it work for the benefit of society.
 
 This 5-week learning circle course is designed to:
 * Introduce the basics of AI
