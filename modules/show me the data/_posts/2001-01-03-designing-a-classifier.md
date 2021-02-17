@@ -46,7 +46,7 @@ Otherwise not fraudulent
 Return to the full group and take turns sharing your fraud detection classifiers. (For bigger groups, limit to 3–5 depending on time.) Authors can share the written text or read the description of the features and of the rules out loud. 
 
 For each classifier, ask the author to answer the following questions:
-* What did you want to achieve with your rule? 
+* What did you want to achieve with your rule? (E.g., catch all cases of fraud or not inconvenience people who are traveling by flagging their transactions as fraud)
 * How would you check that your classifier works?
 * What are the errors your classifier might make, and what are the consequences of these errors? 
 * Who benefits from the classifier’s decisions and who is harmed by its mistakes? Do you see any patterns in the distribution of benefits and harms?
