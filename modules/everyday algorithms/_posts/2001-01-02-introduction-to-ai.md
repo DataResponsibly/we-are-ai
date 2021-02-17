@@ -28,6 +28,8 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 <iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview"></iframe>
 </div>
 
+<iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" width="100%"></iframe>
+
 As you watch the video, make notes of any vocabulary you don’t recognize or concepts that feel confusing.
 
 > Facilitator tip: If you’re meeting online, take a minute to discuss as a group whether everyone would prefer to watch videos individually or as a group. If individually: ask everyone to mute their microphones and play the video on their own computer and return at a designated time. (Some may prefer to turn off their video at this time which can be a nice social break too.) If as a group, the facilitator can play the video and share their screen using the video chat program. Make sure to try this out in advance to make sure the audio works for your participants.
