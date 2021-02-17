@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-Artificial Intelligence (“AI”) refers to a growing world of sophisticated computer programs that “learn” from data in order to make decisions. Many of these AI systems are invisible to the public, yet the results of the decisions they make (or help humans make) have a huge impact on modern life. 
+_Artificial Intelligence_ (“AI”) refers to a growing world of sophisticated computer programs that “learn” from data in order to make decisions. Many of these AI systems are invisible to the public, yet the results of the decisions they make (or help humans make) have a huge impact on modern life. 
 
 For many of us, AI primarily impacts the way we do things online: it controls whose updates we read on Facebook, the products we select on Amazon, and which movies we watch on Netflix. However, AI is increasingly being used to make decisions in more serious areas of life like hiring (e.g., whose resume gets reviewed and whose gets skipped), education (e.g. assigning grades based on past performance), and even law enforcement (e.g., deciding who gets bail).
 
