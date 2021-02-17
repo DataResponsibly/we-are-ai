@@ -24,11 +24,16 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 
 ### Watch "What’s “AI” Anyway?” (10 min)
 
-<div class="container" style="max-width:900px; width: 100%;">
-<iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview"></iframe>
+<div class="container" style="position: relative; overflow: hidden; padding-top: 56.25%;">
+<iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
 </div>
 
 <iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" width="100%"></iframe>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" allowfullscreen></iframe>
+</div>
+
 
 As you watch the video, make notes of any vocabulary you don’t recognize or concepts that feel confusing.
 
