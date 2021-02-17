@@ -12,7 +12,7 @@ The retail giant Stock-Mart has developed a machine learning algorithm to help s
 
 #### Do (20 mins)
 
-<center><img src="./img/3-2-do.png" alt="Teachable Machine" width="100%"/></center>
+<center><img src="https://raw.githubusercontent.com/p2pu/ai-for-the-people/gh-pages/img/3-2-do.png" alt="Teachable Machine" width="100%"/></center>
 
 1. [Review the data](https://drive.google.com/drive/folders/1G082cys1xSJEnhxnxrv70-dkwhLry63A) that Stock-Mart used to train their screening algorithms to screen job candidates as high priority or low priority candidates. 
 * How are the images similar?
