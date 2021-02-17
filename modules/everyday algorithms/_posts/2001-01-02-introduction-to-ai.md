@@ -24,7 +24,7 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 
 ### Watch "What’s “AI” Anyway?” (10 min)
 
-<div class="container" style="position: relative; width: 100%; padding-bottom: 56.25%;">
+<div class="container" style="width: 100%;">
 <iframe src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
