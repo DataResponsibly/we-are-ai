@@ -24,7 +24,7 @@ Data is the key to AI and can be many different things. It can be digital, perso
 ### Watch "How Machines Learn?” (15 min)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1KMZdxbHDSOf_cPHW_u6g-na79gCF83PG/view" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1KMZdxbHDSOf_cPHW_u6g-na79gCF83PG/preview" allowfullscreen></iframe>
 </div>
 
 **Key terms:** classifiers, input, output, feature 
