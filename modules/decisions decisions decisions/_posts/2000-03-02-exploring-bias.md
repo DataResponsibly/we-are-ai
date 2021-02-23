@@ -19,7 +19,7 @@ With the full group or in breakout sessions, spent 5 minutes discussing the foll
 #### Watch "Bias in the Data” (12 min)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/18Ioh_7HhBnS6y_no8CD0x5yYbP4pZwXu/preview">
+  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/18Ioh_7HhBnS6y_no8CD0x5yYbP4pZwXu/preview" allowfullscreen>
   </iframe></div>
  
 **Key terms:** pre-existing bias, technical bias, emergent bias
