@@ -2,17 +2,8 @@
 title: Exploring Bias 
 ---
 
-## Exploring Bias (30 mins)
-
-<br>
-
-#### Group Discussion (5 min)
-
-In Module 2, we discussed how machines learn from data to make decisions on our behalf, and how some of those decisions can have a great impact on our lives. This module explores how those decisions are influenced by human bias.
-
-With the full group or in breakout sessions, spend 5 minutes discussing the following: 
-* When you think about or hear the term "bias", what comes to mind?
-* Considering your own experience or understanding of bias, how can you imagine bias positively or negatively impacting the data and technologies we've been exploring? 
+## Exploring Bias 
+_Suggested time: 22 min_
 
 <br>
 
@@ -33,7 +24,7 @@ With the full group or in breakout sessions, spend 5 minutes discussing the foll
 <br>
 
 #### Group Discussion (10 min)
-Once you’ve completed the video, gather the group or split into breakout sessions to discuss some of the real-world scenarios shared in the video.
+Once you’ve completed the video, gather the group or split into breakout sessions to discuss this real-world scenario shared in the video.
 
 **Gender Disparity in Amazon Recruiting**
 
