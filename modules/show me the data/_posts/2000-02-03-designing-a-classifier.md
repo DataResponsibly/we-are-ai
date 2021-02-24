@@ -12,7 +12,7 @@ In this exercise, you will design a classifier that a credit card company will u
 
 ### Think/Pair/Share (10 min)
 
-Imagine that you were hired by a credit card company to design an algorithm that cuts down on fraudulent activity. What kinds of data can you use that might indicate when fraud is happening? Spend 5 minutes brainstorming a list of ideas, considering how each type of data helps accomplish your goal and how you would collect that data. 
+Imagine that you were hired by a credit card company to design an algorithm that cuts down on fraudulent activity. What kinds of data can you use that might indicate when fraud is happening? Spend 5 minutes brainstorming a list of ideas, considering how each input feature helps accomplish your goal and how you would collect that data. 
 
 ```
 NAME THE FEATURE     WHY IS THIS FEATURE INFORMATIVE?     HOW WOULD YOU GET THIS FEATURE?
@@ -23,7 +23,7 @@ NAME THE FEATURE     WHY IS THIS FEATURE INFORMATIVE?     HOW WOULD YOU GET THIS
 (...)
 ```
 
-In pairs or small groups, compare your lists of data and choose the two data sources that you see as most important for detecting fraudulent credit card usage. Use the structure below to design  Propose two rules that your classifiers can use to predict whether a transaction is *fraudulent* or *not fraudulent*.
+In pairs or small groups, compare your lists of features and choose the two data sources that you see as most important for detecting fraudulent credit card usage. Use the structure below to design two rules that your classifiers can use to predict whether a transaction is *fraudulent* or *not fraudulent*.
 
 ```
 Rule 1:  
