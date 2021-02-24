@@ -4,7 +4,7 @@ title: The Trolley Problem
 
 ## The Trolley Problem (30 mins)
 
-Ethics and technology are two systems that are complex and interrelated in varying ways. There is never a simple solution to an ethical issue. The trolley problem is one popular approach to model technology ethics.
+There is never a simple solution to an ethical issue: things get even more complicated when people try to model ethics into complex technological systems. By way of a popular (albeit simplistic) example, we’re going to explore the Trolley Problem.
 
 <br>
 
@@ -20,7 +20,7 @@ Watch the TEDx video [“Would you sacrifice one person to save five?“](https:
 
 #### Try (15 min)
 
-Individually complete this [online version of the Trolley Problem](https://www.moralmachine.net/) with self-driving cars. When you finish, click the red ‘yes’ button to see your results (you don’t need to enter any personal information). 
+Individually complete The Moral Machine, an [online version of the Trolley Problem](https://www.moralmachine.net/) with self-driving cars. When you finish, click the red ‘yes’ button to see your results (you don’t need to enter any personal information). 
 
 <br>
 
