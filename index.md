@@ -5,14 +5,9 @@ published: true
 
 _Artificial Intelligence_ (“AI”) refers to a growing world of sophisticated computer programs that “learn” from data in order to make decisions. Many of these AI systems are invisible to the public, yet the results of the decisions they make (or help humans make) have a huge impact on modern life. 
 
-For many of us, AI primarily impacts the way we do things online: it controls whose updates we read on Facebook, the products we select on Amazon, and which movies we watch on Netflix. However, AI is increasingly being used to make decisions in more serious areas of life like hiring (e.g. whose resume gets reviewed and whose gets skipped), education (e.g. assigning grades based on past performance), and even law enforcement (e.g. deciding who gets bail).
+For many of us, AI primarily impacts the way we do things online: it controls whose updates we read on Facebook, which products we select on Amazon, and which movies we watch on Netflix. However, AI is increasingly being used to make decisions in more serious areas of life like hiring (E.g., deciding whose resume gets reviewed by a human and whose gets skipped), education (E.g., assigning grades based on past performance), and even law enforcement (E.g., helping a judge decide who gets bail).
 
-Because of how important AI is in our lives, we should understand how it works _**so that we can control it together**_! The goal of this 5-week learning circle course is to introduce the basics of AI as well as some of the social and ethical dimensions of AI in modern life. 
-
-From this foundation, this 5-week learning circle course introduces:
-* The basic concepts of AI
-* Social and ethical dilemmas of AI use in modern life
-* Actions that individuals can take to engage with AI
+Because of how important AI is in our lives, we should understand how it works _**so that we can control it together**_! The goal of this 5-week learning circle course is to introduce the basics of AI, discuss some of the social and ethical dimensions of the use of AI in modern life, and empower individuals to engage with how AI is used and governed. 
 
 <br>
 
@@ -25,6 +20,6 @@ This course is designed to be run as a [learning circle](https://www.p2pu.org/en
 All of the materials, discussion prompts, and activities needed to run a group with minimal preparation are incorporated into this course. The flow of each meeting will vary but generally: participants will watch short instructional videos, discuss the subject matter, and complete short activities. There is no homework (only optional supplemental readings) so all work takes place during the meeting. Check each module for tips on facilitating specific material.
 
 *Recommended setup:*
-* Meet for 90 minutes a week for five weeks, working through one module each week. This will provide the group time adequate to connect with each other, invest in the topic, and understand how the course content impacts their daily lives.
+* Meet for 90 minutes a week for five weeks, working through one module each week. This will provide the group adequate time to connect with each other, invest in the topic, and understand how the course content impacts their daily lives.
 * Review each module briefly beforehand. The suggested timing will always add up to 75-80 minutes, providing you some flexibility as to how you spend your time in each meeting and giving some time for breaks as needed.
-* Use this course for either online or in-person learning circles. Check the facilitator tips throughout the course for suggestions on how to utilize these materials effectively in either context. If meeting online, we recommend all participants have a webcam and microphone to engage fully with the group and activities. For more best practices on running virtual learning circles, visit [p2pu.org/virtual-handbook](https://www.p2pu.org/virtual-handbook).
+* Use this course for either online or in-person learning circles. Check the facilitator tips throughout the course for suggestions on how to use these materials effectively in either context. If meeting online, we recommend that all participants have a webcam and microphone to engage fully with the group and activities. For more best practices on running virtual learning circles, visit [p2pu.org/virtual-handbook](https://www.p2pu.org/virtual-handbook).
