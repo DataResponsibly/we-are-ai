@@ -8,10 +8,10 @@ title: Exploring Bias
 
 #### Group Discussion (5 min)
 
-In Module 2, we discussed how machines learn from data to make decisions on our behalf. This module explores how those decisions (which can have great impact) can be influenced by human bias.
+In Module 2, we discussed how machines learn from data to make decisions on our behalf, and how some of those decisions can have a great impact on our lives. This module explores how those decisions are influenced by human bias.
 
-With the full group or in breakout sessions, spent 5 minutes discussing the following: 
-* When you think about or hear the term bias, what comes to mind?
+With the full group or in breakout sessions, spend 5 minutes discussing the following: 
+* When you think about or hear the term "bias", what comes to mind?
 * Considering your own experience or understanding of bias, how can you imagine bias positively or negatively impacting the data and technologies we've been exploring? 
 
 <br>
@@ -44,10 +44,11 @@ In late 2018, it was discovered that Amazon’s AI recruiting tool, originally d
 
 **Discussion: Racism in Online Ads**
 
-In 2013, Latanya Sweeney, a computer science professor at Harvard, noticed that searching Google for African-American-sounding names was more likely to display ads suggesting criminal records than searching for white-sounding names, regardless of if the individual had a record or not.
+In 2013, Latanya Sweeney, a computer science professor at Harvard, noticed that searching Google for African-American-sounding names was more likely to display ads suggestive of criminal records than searching for white-sounding names, regardless of whether or not the individual had a criminal record.
 
+* What are some possible reasons that this is happening?
 * How can these types of ads cause harm? Who is likely to be affected?
 * Who benefits when these ads are shown?
 * Who should be responsible for mitigating the harms?
 
-The (financial) benefit is to Google’s ad serving platform and to the advertiser, Instant Checkmate, because they get higher click-through rates when these ads are shown in response to African American sounding names. Part of the reason for this is that employers are more likely to believe the ads in the case of an African American applicant, and are therefore more likely to click. Google is in the best position to mitigate - they benefit the most, and they are holding all the cards in terms of access to information about how their ad targeting platform works (we can only guess).
+The (financial) benefit is to Google’s ad serving platform and to the advertiser, Instant Checkmate, because they get higher click-through rates when these ads are shown in response to African-American-sounding names. Part of the reason for this is that employers are more likely to believe the ads in the case of an African American applicant, and are therefore more likely to click. Google is in the best position to mitigate - they benefit the most, and they are holding all the cards in terms of access to information about how their ad targeting platform works (we can only guess).
