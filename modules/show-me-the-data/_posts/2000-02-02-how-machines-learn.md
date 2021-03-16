@@ -21,7 +21,7 @@ Data is the key to AI and it can take many forms. It can be digital, personal, o
 
 <br>
 
-### Watch "How Machines Learn?” (15 min)
+### Watch "Learning From Data” (15 min)
 
 The key terms that come up in this video include classifiers, input, output, and feature. As you watch the video, make notes of any words you don’t recognize or concepts that feel confusing.
 
