@@ -26,9 +26,10 @@ Data is the key to AI and it can take many forms. It can be digital, personal, o
 The key terms that come up in this video include classifiers, input, output, and feature. As you watch the video, make notes of any words you don’t recognize or concepts that feel confusing.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1KMZdxbHDSOf_cPHW_u6g-na79gCF83PG/preview" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/vg_cJW_PjrI" allowfullscreen></iframe>
 </div>
 
+Or [view this video on YouTube](https://www.youtube.com/watch?v=vg_cJW_PjrI).
 <br>
 
 ### Group Discussion (10 min)
