@@ -7,11 +7,13 @@ _Suggested time: 22 min_
 
 <br>
 
-#### Watch "Bias in the Data” (12 min)
+#### Watch "Bias in AI” (12 min)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/18Ioh_7HhBnS6y_no8CD0x5yYbP4pZwXu/preview" allowfullscreen>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Lt0rNZT7jew" allowfullscreen>
   </iframe></div>
+  
+[View this video on YouTube](https://www.youtube.com/watch?v=Lt0rNZT7jew)
  
 **Key terms:** pre-existing bias, technical bias, emergent bias
 
