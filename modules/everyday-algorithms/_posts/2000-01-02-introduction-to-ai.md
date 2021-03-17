@@ -23,11 +23,13 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 
 <br>
 
-### Watch "What’s “AI” Anyway?” (10 min)
+### Watch "Defining AI” (10 min)
 
 As you watch the video, make notes of any vocabulary you don’t recognize or concepts that feel confusing.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://drive.google.com/file/d/1TyI1qhR3Dpylc0jJ9mmmpp4orSdk1DwK/preview" allowfullscreen></iframe></div>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6mTeKshRgjc" allowfullscreen></iframe></div>
+  
+[View on YouTube](https://youtu.be/6mTeKshRgjc)
 
 > Facilitator tip: If you’re meeting online, take a minute to discuss as a group whether everyone would prefer to watch videos individually or as a group. If individually: ask everyone to mute their microphones and play the video on their own computer and return at a designated time. (Some may prefer to turn off their video at this time which can be a nice social break too.) If as a group, the facilitator can play the video and share their screen using the video chat program. Make sure to try this out in advance to make sure the audio works for your participants.
