@@ -4,7 +4,7 @@ title: The Trolley Problem
 
 ## The Trolley Problem (30 mins)
 
-There is never a simple solution to an ethical issue: things get even more complicated when people try to model ethics into complex technological systems. By way of a popular (albeit simplistic) example, we’re going to explore the Trolley Problem.
+There is never a simple solution to an ethical issue: things get even more complicated when people try to embed ethics into complex technological systems. By way of a popular (albeit simplistic) example, we’re going to explore the Trolley Problem.
 
 <br>
 
@@ -26,7 +26,7 @@ Individually complete The Moral Machine, an [online version of the Trolley Probl
 
 #### Discuss (10 min)
 
-Share your results and discuss:
-* Your experience completing the trolley problems with the group.
+Return to the full group to share your results from the activity: 
+* Discuss your experience completing the trolley problems with the group.
 * How does your own bias appear through your results? 
-* How does (or doesn't) the scenario apply to other areas of AI ethics? 
+* How does (or doesn't) the scenario apply to other examples discussed in the course? 
