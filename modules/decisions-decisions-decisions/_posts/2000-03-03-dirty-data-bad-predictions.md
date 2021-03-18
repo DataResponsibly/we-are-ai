@@ -13,6 +13,9 @@ The retail giant Stock-Mart has developed a machine learning algorithm to help s
 #### Explore Stock-Mart’s Screening Tool (15 mins)
 
 <center><img src="https://raw.githubusercontent.com/p2pu/ai-for-the-people/gh-pages/img/3-2-do.png" alt="Teachable Machine" width="100%"/></center>
+<i>above: Course co-creator Eric interacts with the Stock-Mart screening algorithm</i>
+
+<br>
 
 1. [Review the data](https://drive.google.com/drive/folders/1G082cys1xSJEnhxnxrv70-dkwhLry63A) that Stock-Mart used to train their algorithms to screen job candidates as high priority or low priority candidates. 
 * How are the images similar?
@@ -24,7 +27,7 @@ The retail giant Stock-Mart has developed a machine learning algorithm to help s
 * Try the application in normal lighting conditions (not too bright, not too dark)
 * Remain as still as possible and try to position yourself so the camera captures the neck-up with as few background objects as possible
 
-3. Note how the program classifies you. Are you able to alter your classification by moving around, adjusting the light, or changing anything else about your appearance? As a group can you identify any patterns that influence your results? 
+3. Note how the program classifies you. Are you able to alter your classification by moving around, adjusting the light, or changing anything else about your appearance? Can you identify any patterns that influence your results?  
 * Gender?
 * Age?
 * Race?
