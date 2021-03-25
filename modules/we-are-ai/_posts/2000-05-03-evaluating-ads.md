@@ -35,7 +35,7 @@ It is now nine years later and Nicole is 12. She is going through some difficult
 You explain what has happened, but they are required to inform Child Welfare Services.
 
 The next day you receive a visit from a social worker who says that the computer tool they are using scored Nicole as being at high risk. This is because your new partner has a previous domestic violence investigation on his record and together with your data record in the Child Welfare Services system there is possibility of a pattern.
-</div> 
+</div>
 
 <br>
 
