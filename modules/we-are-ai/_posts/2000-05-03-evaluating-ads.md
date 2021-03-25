@@ -15,7 +15,7 @@ In this activity we explore a local NYC example of an ADS, the Administration fo
 
 Read the following fictional scenario of the ACS’s Child Welfare Child Risk and Safety Assessment: 
 
-<div "style=background-color:#F3F4F8;">
+<div style="background-color:#F3F4F8;">
 Nicole's Story:
 
 You are doing well, looking after your three year old daughter Nicole on your own with support from your parents and extended family. One night, after a long day at work you come home, feed and play with Nicole and put her to bed. You then take a hot bath, put some headphones on and relax for a half hour - but when you get out of the bath and check on Nicole you find she is not in her bed.
