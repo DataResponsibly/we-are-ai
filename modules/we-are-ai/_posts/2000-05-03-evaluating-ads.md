@@ -15,7 +15,7 @@ In this activity we explore a local NYC example of an ADS, the Administration fo
 
 Read the following fictional scenario of the ACS’s Child Welfare Child Risk and Safety Assessment: 
 
-```
+<div "style=background-color:#F3F4F8;">
 Nicole's Story:
 
 You are doing well, looking after your three year old daughter Nicole on your own with support from your parents and extended family. One night, after a long day at work you come home, feed and play with Nicole and put her to bed. You then take a hot bath, put some headphones on and relax for a half hour - but when you get out of the bath and check on Nicole you find she is not in her bed.
@@ -35,8 +35,8 @@ It is now nine years later and Nicole is 12. She is going through some difficult
 You explain what has happened, but they are required to inform Child Welfare Services.
 
 The next day you receive a visit from a social worker who says that the computer tool they are using scored Nicole as being at high risk. This is because your new partner has a previous domestic violence investigation on his record and together with your data record in the Child Welfare Services system there is possibility of a pattern.
+</style> 
 
-```
 <br>
 
 ### Group Discussion (10 min)
