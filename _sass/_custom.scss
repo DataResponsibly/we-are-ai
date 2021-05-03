@@ -28,6 +28,32 @@ body {
   padding-right: 1em !important;
 }
 
+.mumbo-jumbo {
+  position: relative; 
+  width: 100%;
+	color: $white;
+  text-shadow: 5px 5px 10px $gray-darker;
+  overflow: hidden;
+
+  img {
+    max-width: 100%;
+  }
+
+  .mask {
+    position: absolute;
+    width: 100%;
+
+  }
+
+  .overlay {
+    position: absolute;
+    top: calc(50% - 3rem); 
+    width: 100%;
+    text-align: center;
+  }
+
+}
+
 .jumbotron {
 	background: 
     url('../#{$jumbotron-mask}') repeat, 
