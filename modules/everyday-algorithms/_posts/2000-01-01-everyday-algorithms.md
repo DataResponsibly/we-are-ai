@@ -4,7 +4,7 @@ title: Everyday Algorithms
 
 # Everyday Algorithms
 
-<center><img src=".../img/1-cover.png" alt="What Is AI? Comic Cover" width="100%"/></center>
+<center><img src="../../../img/1-cover.png" alt="What Is AI? Comic Cover" width="100%"/></center>
 
 <p></p>
 
