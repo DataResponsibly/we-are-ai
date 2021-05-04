@@ -2,7 +2,8 @@
 title: The Trolley Problem
 ---
 
-## The Trolley Problem (15 mins)
+## The Trolley Problem
+_Suggested time: 15 min_
 
 To start off our journey into AI ethics, we will watch and then discuss a popular example from moral philosophy called the “Trolley Problem.” As you watch the video, note any observations, questions, or comments you may have. 
 
