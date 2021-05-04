@@ -4,22 +4,22 @@ title: Comics
 
 # List of Companion Comics
 
-**Module 1: Everyday Algorithms**
-<a href="">View comic</a>
-<a href="">Download comic (PDF, 8.7MB)</a>
+### **Module 1: Everyday Algorithms**
+<p><a href="./we-are-ai/modules/everyday-algorithms/everyday-algorithms/">View comic</a>
+<p><a href="./we-are-ai/comics/vol1_en.pdf">Download comic (PDF, 0MB)</a>
 
-**Module 2: Show Me the Data**
-<a href="">View comic</a>
-<a href="">Download comic (PDF, 8.7MB)</a>
+### **Module 2: Show Me the Data**
+<p><a href="">View comic</a></p>
+<p><a href="./we-are-ai/comics/vol2_en.pdf">Download comic (PDF, 0MB)</a></p>
 
 **Module 3: Who lives, Who dies, Who decides?**
-<a href="">View comic</a>
-<a href="">Download comic (PDF, 8.7MB)</a>
+<p><a href="">View comic</a></p>
+<p><a href="">Download comic (PDF, 0MB)</a></p>
 
 **Module 4: Decisions, Decisions, Decisions**
-<a href="">View comic</a>
-<a href="">Download comic (PDF, 8.7MB)</a>
+<p><a href="">View comic</a></p>
+<p><a href="">Download comic (PDF, 0MB)</a></p>
 
 **Module 5: We Are AI**
-<a href="">View comic</a>
-<a href="">Download comic (PDF, 8.7MB)</a>
+<p><a href="">View comic</a></p>
+<p><a href="">Download comic (PDF, 0MB)</a></p>
