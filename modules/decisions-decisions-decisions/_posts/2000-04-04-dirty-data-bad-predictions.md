@@ -38,6 +38,5 @@ The retail giant Stock-Mart has developed a machine learning algorithm to help s
 
 Let’s say that Stock-Mart’s applicant data was collected over a 10 year period, and that during that same time period Stock-Mart was found guilty of workplace discrimination against minorities by a federal court. 
 
-* How might the past culture/context of the data impact the present day performance of the hiring screener? 
-* What other criteria for higher-priority candidates might exist?
 * How might a system built on historical data amplify social inequalities?
+* In addition to “never missed a day of work, worked at the company for at least four years, was promoted at least once”, what other criteria for prioritizing candidates might exist?
