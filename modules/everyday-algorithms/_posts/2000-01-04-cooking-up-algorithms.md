@@ -2,7 +2,7 @@
 title: Cooking Up Algorithms
 ---
 
-# Cooking Up Algorithms
+## Cooking Up Algorithms
 _Suggested time: 30 min_
 
 A computer algorithm is just like a recipe: it solves a problem (providing a meal) with a procedure that transforms some inputs (ingredients) into an output (a loaf of bread).  Software engineers write these “recipes” using code that acts as instructions for computers to follow. We won’t write code in this learning circle, instead we will think about the steps in plain language as a recipe. 
