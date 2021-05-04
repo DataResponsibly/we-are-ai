@@ -24,7 +24,7 @@ When high-profile transport disasters happen in the U.S., the National Transport
     </p><p>
 We don’t know what Herzberg was thinking when she set off into the road. Nor do we know exactly what the car was thinking: The decisions made by machine learning systems are often inscrutable. Roads are dangerous places, particularly in the U.S. and particularly for pedestrians. A century of decisions by policymakers and carmakers has produced a system that gives power and freedom to drivers. Tempe, part of the sprawling metropolitan area of Phoenix, is car-friendly. The roads are wide and neat, and the weather is good. It is ideally suited to testing a self-driving car. For a pedestrian, the place and its infrastructure can feel hostile. Official statistics bear this out. In 2017, Arizona was the most dangerous state for pedestrians in the U.S.
   </p><p>
-  This text [appeared on Medium OneZero](https://onezero.medium.com/who-killed-elaine-herzberg-ea01fb14fc5e) and is an excerpt from the book [_Who’s Driving Innovation?_](https://www.palgrave.com/gp/book/9783030323196) by Jack Stilgoe.
+  This text appeared on <a href="https://onezero.medium.com/who-killed-elaine-herzberg-ea01fb14fc5e">Medium OneZero</a> and is an excerpt from the book <a href="https://www.palgrave.com/gp/book/9783030323196"><i>Who’s Driving Innovation?</i></a> by Jack Stilgoe.
   </p></div>
 
 <br>
