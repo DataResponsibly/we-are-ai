@@ -2,7 +2,7 @@
 title: Designing a Classifier
 ---
 
-# Designing a Classifier
+## Designing a Classifier
 _Suggested time: 30 min_
 
 A **classifier** is an algorithm that makes predictions by assigning labels to observations. In the video, we saw several classifiers that observed facts about the world (amount of daylight, human behavior), then decided what actions to take (turning lights on and off) based on these observations. 
