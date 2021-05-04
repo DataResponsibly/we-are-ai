@@ -8,9 +8,8 @@ title: Everyday Algorithms
 
 <p></p>
 
-<embed src="../../../comics/vol1_en.pdf" width="100%" type="application/pdf">
-
 <object data="../../../comics/vol1_en.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
 
-
 <a href="https://p2pu.github.io/we-are-ai/comics/vol1_en.pdf">Download PDF (8.4MB)</a>
+
+2000-01-01-everyday-algorithms.md
