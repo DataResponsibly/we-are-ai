@@ -12,7 +12,11 @@ Let’s move from theory to action. Circling back to the video we watched and gi
 Here is a resource about the actions we can take to continue the journey we started in this learning circle: 
 Let’s talk through this list to shape our thoughts and actions moving forward! 
 
-<table style="width:100%; border: 1px solid black; border-collapse: collapse; padding: 15px;">
+<style>
+table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; padding: 15px;"}
+</style>
+
+<table>
   <tr>
     <td>
 **Get Organized**
