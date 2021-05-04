@@ -48,6 +48,7 @@ Imagine that you were hired by a credit card company to design an algorithm that
   </tr>
 </table>
 
+
 In pairs or small groups, compare your lists of features and choose the two data sources that you see as most important for detecting fraudulent credit card usage. Use the structure below to design two rules that your classifiers can use to predict whether a transaction is *fraudulent* or *not fraudulent*.
 
 ```
