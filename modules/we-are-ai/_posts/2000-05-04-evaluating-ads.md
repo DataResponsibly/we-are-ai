@@ -41,28 +41,6 @@ You explain what has happened, but they are required to inform Child Welfare Ser
 
 ### Group Discussion (10 min)
 
-1. Any high-level thoughts/concerns with the scenario? 
-1. Does the algorithm change how ACS works?
-1. What issues might arise in how the algorithm works?
-
-
-<br>
-
-### Evaluation (10 min)
-
-In breakout groups of 3–4 people, take 10 minutes to fill out the [values/stakeholder matrix](https://blog.dataiku.com/algorithmic-stakeholders-an-ethical-matrix-for-ai) below. The purpose of the matrix is to help consider each stakeholder in relation to pertinent values with the assumption being that values might be held in common but interpreted differently. _**Each cell is filled in with a statement of what the value means for the stakeholder.**_ 
-
-Below is a partially completed matrix based on the ACS/Nicole scenario we just read. Complete the remaining stakeholders/values as a group. 
-
-<center><img src="https://raw.githubusercontent.com/p2pu/ai-for-the-people/gh-pages/img/05-03-matrix.png" alt="Evaluation Matrix" width="100%"/></center>
-<br>
-
-### Discussion (10 min)
-
-Return to the full group and spend 10 minutes exploring all of the breakout groups’ matrices. 
-
-Discuss:
-1. What stakeholders values are most conflicted? How should we resolve these conflicts? 
-1. What values are most important? Who should get to decide? 
-1. What stakeholders are missing? Is it ok for us to speak on behalf of these missing voices? 
-1. How would you approach conversations with technologists and decision-makers to convince them to improve the design and use of the tool? 
+* Any high-level thoughts/concerns with the scenario? 
+* Does the algorithm change how ACS works? What issues might arise in how the algorithm works?
+* How would you approach conversations with technologists and decision-makers to convince them to improve the design and use of the tool? 
