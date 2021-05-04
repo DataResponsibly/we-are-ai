@@ -3,7 +3,7 @@ title: Exploring Bias
 ---
 
 ## Exploring Bias 
-_Suggested time: 22 min_
+_Suggested time: 30 min_
 
 <br>
 
@@ -23,7 +23,7 @@ _Suggested time: 22 min_
 
 <br>
 
-#### Group Discussion (10 min)
+#### Group Discussion (18 min)
 Once you’ve completed the video, gather the group or split into breakout sessions to discuss this real-world scenario shared in the video.
 
 **Gender Disparity in Amazon Recruiting**
