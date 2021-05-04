@@ -19,20 +19,20 @@ table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; p
 <table>
   <tr>
     <td>
-**Get Organized**
-Connect with organizations working to make technology more equitable, for example [Data for Black Lives](https://d4bl.org/), the [Design Justice Network](https://designjustice.org/) or [Our Data Bodies](https://www.odbproject.org/our-data-bodies-project/), or participate in government policy making efforts, for example get involved in the technology policy-making of your local city council.
+<b>Get Organized</b>
+<p>Connect with organizations working to make technology more equitable, for example [Data for Black Lives](https://d4bl.org/), the [Design Justice Network](https://designjustice.org/) or [Our Data Bodies](https://www.odbproject.org/our-data-bodies-project/), or participate in government policy making efforts, for example get involved in the technology policy-making of your local city council.</p>
 </td>
   </tr>
   <tr>
     <td>
-**Get Educated**
-Engage the social, political, and cultural impacts of AI, for example read [Automating Inequality](https://us.macmillan.com/books/9781250074317) by Virginia Eubanks, or [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/) by Safiya Umjoa Noble. 
+<b>Get Educated</b>
+<p>Engage the social, political, and cultural impacts of AI, for example read [Automating Inequality](https://us.macmillan.com/books/9781250074317) by Virginia Eubanks, or [Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/) by Safiya Umjoa Noble.</p>
     </td>
   </tr>
   <tr>
     <td>
-**Get Creative**
-Explore the intersections of AI in culture, arts, and media, for example by watching [Coded Bias](https://www.codedbias.com/), or exploring the work of artists like [Stephanie Dinkins](https://www.stephaniedinkins.com/). 
+<b>Get Creative</b>
+<p>Explore the intersections of AI in culture, arts, and media, for example by watching [Coded Bias](https://www.codedbias.com/), or exploring the work of artists like [Stephanie Dinkins](https://www.stephaniedinkins.com/).</p>
     </td>
   </tr>
 </table>
