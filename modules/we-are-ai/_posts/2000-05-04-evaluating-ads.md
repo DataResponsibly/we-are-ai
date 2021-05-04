@@ -2,7 +2,7 @@
 title: Evaluating Automated Decision Systems
 ---
 
-# Evaluating Automated Decision Systems
+## Evaluating Automated Decision Systems
 _Suggested time: 35 min_
 
 As we saw in the video, Automated Decision Systems aid or replace human decisions. The decisions these systems make take many forms: predicting, classifying, optimizing, identifying, recommending, scoring, and adjudicating. Depending on where and how these decisions are made, these systems can have an impact on our opportunities, safety, rights, and behaviors. 
