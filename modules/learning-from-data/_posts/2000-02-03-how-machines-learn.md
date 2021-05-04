@@ -2,7 +2,8 @@
 title: How Machines Learn
 ---
 
-## How Machines Learn
+# How Machines Learn
+_Suggested time: 30 min_
 
 “Machine learning” refers to the techniques that computers use to automatically find patterns in data, and to use these patterns to draw inferences or make predictions. We call this _learning from data_. In this module, we’ll explore how machines learn from data and how people can critically interpret that data collection.
 
