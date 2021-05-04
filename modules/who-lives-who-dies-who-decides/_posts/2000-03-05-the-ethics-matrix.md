@@ -36,7 +36,7 @@ Below is a partially completed matrix based on the scenario we just read. Comple
 
 <style>
 #ethics-matrix { width:100%; border: 1px solid black; border-collapse: collapse; }
-#ethics-matrix th, #ethics-matrix td { border: 1px solid black; border-collapse: collapse; padding: 15px; }
+#ethics-matrix th, #ethics-matrix td { border: 1px solid black; border-collapse: collapse; padding: 15px; width:19%;}
 #ethics-matrix tr th.tint { background-color: #D1E0E3; }
 #ethics-matrix tr td.tint { background-color: #E4EDFE; }
 </style>
