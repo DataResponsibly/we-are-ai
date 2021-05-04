@@ -10,8 +10,8 @@ title: Comics
 <br><a href="./vol1_en.pdf">Download comic (PDF, 8.34MB)</a></p>
 
 <br>
-##### Module 2: Show Me the Data
-<p><a href="../modules/show-me-the-data/index/">View comic</a>
+##### Module 2: Learning From Data
+<p><a href="../modules/learning-from-data/index/">View comic</a>
 <br><a href="./vol2_en.pdf">Download comic (PDF, 12.4MB)</a></p>
 
 <br>
