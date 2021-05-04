@@ -2,7 +2,8 @@
 title: Dirty Data, Bad Predictions
 ---
 
-## Dirty Data, Bad Predictions (30 mins)
+## Dirty Data, Bad Predictions
+_Suggested time: 30 min_
 
 As we already saw, a common task for machine learning algorithms is classifying: classifying credit card transactions as “fraud” or “not fraud”, or classifying job applicants as “promising” or “not promising.” To perform these tasks, machines need to be trained on data. In this activity, you will interact with a machine learning application to screen job applicants at a fictional retail company called Stock-Mart and analyze the data used to train the application. 
 
