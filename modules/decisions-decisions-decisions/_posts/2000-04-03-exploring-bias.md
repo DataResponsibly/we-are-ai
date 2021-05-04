@@ -14,8 +14,6 @@ _Suggested time: 22 min_
   </iframe></div>
   
 [View this video on YouTube](https://www.youtube.com/watch?v=Lt0rNZT7jew)
- 
-**Key terms:** pre-existing bias, technical bias, emergent bias
 
 **References:**
 * MIT Technology Review, “Racism is poisoning online ad delivery, says Harvard professor”, February 4, 2013 ([link](https://www.technologyreview.com/2013/02/04/253879/racism-is-poisoning-online-ad-delivery-says-harvard-professor/))
@@ -33,15 +31,16 @@ Once you’ve completed the video, gather the group or split into breakout sessi
 In late 2018, it was discovered that Amazon’s AI recruiting tool, originally designed to boost workforce diversity, had taught itself to prioritize male candidates. The system was trained on historical data, using performance indicators from candidates who were hired through traditional means.
 
 * Where do you see potential for bias in the data used by Amazon’s resume screening AI? Consider how overrepresentation, underrepresentation, or other kinds of distortion might play a role in how this machine learned.
-* If you were hired to build a system to diversify a workplace, what approach would you take? What data would you use to define and highlight highly-qualified candidates?
+* What stakeholders are harmed by the biased decisions of this tool? 
+* What stakeholders benefit from these decisions?
 
 **Discussion: Racism in Online Ads**
 
 In 2013, Latanya Sweeney, a computer science professor at Harvard, noticed that searching Google for African-American-sounding names was more likely to display ads suggestive of criminal records than searching for white-sounding names, regardless of whether or not the individual had a criminal record.
 
 * What are some possible reasons that this is happening?
-* How can these types of ads cause harm? Who is likely to be affected?
-* Who benefits when these ads are shown?
+* To which stakeholders can these types of ads cause harm? 
+* What stakeholders benefit when these ads are shown?
 * Who should be responsible for mitigating the harms?
 
 The (financial) benefit is to Google’s ad serving platform and to the advertiser, Instant Checkmate, because they get higher click-through rates when these ads are shown in response to African-American-sounding names. Part of the reason for this is that employers are more likely to believe the ads in the case of an African American applicant, and are therefore more likely to click. Google is in the best position to mitigate - they benefit the most, and they are holding all the cards in terms of access to information about how their ad targeting platform works (we can only guess).
