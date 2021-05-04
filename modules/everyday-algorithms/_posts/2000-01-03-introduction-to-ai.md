@@ -2,7 +2,7 @@
 title: Introduction to AI
 ---
 
-# Introduction to AI
+## Introduction to AI
 _Suggested time: 20 min_
 
 The term “Artificial Intelligence (AI)” refers to computer systems that use algorithms to learn from data in order to make decisions on behalf of a human. In Module 1, we will give an overview of AI and will explore algorithms: what they are, how they work, and how they relate to AI.  We will discuss _learning from data_ in Module 2 and _decisions_ in Module 3.
