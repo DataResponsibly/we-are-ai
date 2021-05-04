@@ -2,7 +2,8 @@
 title: The Problem with the Trolley Problem
 ---
 
-## The Problem with the Trolley Problem (15 min)
+## The Problem with the Trolley Problem
+_Suggested time: 15 min_
 
 <br>
 
@@ -15,7 +16,7 @@ title: The Problem with the Trolley Problem
 
 <br>
 
-### Group Discussion (5 min)
+### Group Discussion (8 min)
 
 Return to the group and discuss:
 * How does this video connect to what you already learned about data and classifiers, and to the Trolley Problem?
