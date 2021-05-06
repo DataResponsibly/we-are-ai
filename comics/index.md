@@ -6,7 +6,7 @@ title: Comics
 
 <br>
 ##### Module 1: Everyday Algorithms
-<p><a href="../modules/everyday-algorithms/index/">View comic</a>
+<p><a href="../modules/what-is-ai/index/">View comic</a>
 <br><a href="./vol1_en.pdf">Download comic (PDF, 8.34MB)</a></p>
 
 <br>
@@ -23,7 +23,7 @@ title: Comics
 <br>
 ##### Module 4: Decisions, Decisions, Decisions
 <p><i>Coming soon!</i></p>
-<!-- <p><a href="../modules/decisions-decisions-decisions/index/">View comic</a>
+<!-- <p><a href="../modules/all-about-that-bias/index/">View comic</a>
 <br><a href="./vol4_en.pdf">Download comic (PDF, 0.0MB)</a></p> -->
 
 <br>
