@@ -13,7 +13,7 @@ The retail giant Stock-Mart has developed a machine learning algorithm to help s
 
 #### Explore Stock-Mart’s Screening Tool (15 mins)
 
-<center><img src="https://raw.githubusercontent.com/p2pu/ai-for-the-people/gh-pages/img/3-2-do.png" alt="Teachable Machine" width="100%"/></center>
+<center><img src="../../../img/3-2-do.png" alt="Teachable Machine" width="100%"/></center>
 <i>above: Course co-creator Eric interacts with the Stock-Mart screening algorithm</i>
 
 <br>
