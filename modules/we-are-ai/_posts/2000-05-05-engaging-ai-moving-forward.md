@@ -7,7 +7,7 @@ _Suggested time: 20 min_
 
 ### Discussion (15 min)
 
-Let’s move from theory to action. Circling back to the video we watched and given what we have identified as both the promise and the drawbacks to systems such as the Administration for Children’s Services (ACS) system f, it's clear we all need to be active participants in conversations about AI.
+Let’s move from theory to action. Circling back to the video we watched and given what we have identified as both the promise and the drawbacks to systems such as the Administration for Children’s Services (ACS) system, it's clear we all need to be active participants in conversations about AI.
 
 Here is a resource about the actions we can take to continue the journey we started in this learning circle: 
 Let’s talk through this list to shape our thoughts and actions moving forward! 
