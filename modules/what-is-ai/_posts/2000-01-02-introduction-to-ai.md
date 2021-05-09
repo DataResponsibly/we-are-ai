@@ -5,7 +5,7 @@ title: Introduction to AI
 ## Introduction to AI
 _Suggested time: 20 min_
 
-The term “Artificial Intelligence (AI)” refers to computer systems that use algorithms to learn from data in order to make decisions on behalf of a human. In Module 1, we will give an overview of AI and will explore algorithms: what they are, how they work, and how they relate to AI.  We will discuss _learning from data_ in Module 2 and _decisions_ in Module 3.
+The term “Artificial Intelligence” (AI) refers to computer systems that use algorithms to learn from data in order to make decisions on our behalf, or help us make decisions. In Module 1, we will give an overview of AI and will explore _algorithms_: what they are, how they work, and how they relate to AI.  We will discuss _learning from data_ in Module 2.
 
 <br>
 
@@ -32,4 +32,4 @@ As you watch the video, make notes of any vocabulary you don’t recognize or co
   
 [View on YouTube](https://youtu.be/6mTeKshRgjc)
 
-> Facilitator tip: If you’re meeting online, take a minute to discuss as a group whether everyone would prefer to watch videos individually or as a group. If individually: ask everyone to mute their microphones and play the video on their own computer and return at a designated time. (Some may prefer to turn off their video at this time which can be a nice social break too.) If as a group, the facilitator can play the video and share their screen using the video chat program. Make sure to try this out in advance to make sure the audio works for your participants.
+> Facilitator tip: If you’re meeting online, take a minute to discuss as a group whether everyone would prefer to watch videos individually or as a group. If individually: ask everyone to mute their microphones and play the video on their own computer and return at a designated time. (Some may prefer to turn off their video at this time, which can be a nice social break too.) If as a group, the facilitator can play the video and share their screen using the video chat program. Make sure to try this out in advance to make sure the audio works for your participants.
