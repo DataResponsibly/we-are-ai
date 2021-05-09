@@ -22,7 +22,7 @@ As you watch the video, make notes of any words you don’t recognize or concept
 Or [view this video on YouTube](https://www.youtube.com/watch?v=vg_cJW_PjrI).
 <br>
 
-### Group Discussion (15 min)
+### Group discussion (10 min)
 
 As we discussed in Module 1, data is the key to AI, and it comes in many forms.  
 
