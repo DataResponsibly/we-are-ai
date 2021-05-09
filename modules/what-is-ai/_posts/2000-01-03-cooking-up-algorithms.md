@@ -9,7 +9,7 @@ A computer algorithm is just like a recipe: it solves a problem (providing a mea
 
 <br>
 
-### Solo Activity (10 min)
+### Solo activity (10 min)
 
 In this activity, your job is to write out instructions for making chicken noodle soup using the template below. You can approach these instructions however you think is most effective.
 
@@ -39,7 +39,7 @@ For each recipe discussion, ask the author to answer the following questions:
 
 <br>
 
-### Group Discussion (10 min)
+### Group discussion (10 min)
 
 Think about the recipes you’ve just explored. It’s likely that the same prompt (“write out instructions for making chicken noodle soup”) means different things to each person who answers it. Sometimes these differences are small (like the amount of seasonings used), and sometimes they’re vast (like if you’re a vegetarian)! 
 
