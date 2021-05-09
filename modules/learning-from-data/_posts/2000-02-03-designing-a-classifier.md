@@ -23,12 +23,12 @@ Imagine that you were hired by a credit card company to design an algorithm that
 
 <table id="classifers">
   <tr>
-    <th>Input Feature</th>
+    <th>Input feature</th>
     <th>Why is this feature informative?</th> 
     <th>How would you get this feature?</th>
   </tr>
   <tr>
-    <td><i>example:</i> transaction amount</td>
+    <td>transaction amount</td>
     <td>unusually high amount may indicate fraud</td>
     <td>credit card company has this information</td>
   </tr>
