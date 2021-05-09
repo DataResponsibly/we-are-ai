@@ -9,7 +9,7 @@ The term “Artificial Intelligence” (AI) refers to computer systems that use 
 
 <br>
 
-### Meet the Group (10 min)
+### Meet the group (10 min)
 
 Take some time to meet your fellow participants! Give everyone 1–2 minutes to introduce themselves:
 * Who are you? Share anything you’d like about your background, your goals for this learning circle, and your interest in the topic.
