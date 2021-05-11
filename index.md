@@ -11,7 +11,7 @@ Because of how important AI is in our lives, we should understand how it works _
 
 #### Course materials
 
-This course consists of 5 modules.  Each module comes with a short accompanying video, which you will watch as a group.  We also developed a comic book series called ["We are AI"](https://dataresponsibly.github.io/comics/we-are-ai) for this course, with one volume for each module.  These comic books are supplementary reading, and we hope that you will find them useful in and out of the learning circle. 
+This course consists of 5 modules.  Each module comes with a short accompanying video, which you will watch as a group.  We also developed a comic book series called ["We are AI"](https://dataresponsibly.github.io/we-are-ai/comics/) for this course, with one volume for each module.  These comic books are supplementary reading, and we hope that you will find them useful in and out of the learning circle. 
 
 #### Structure and use
 
