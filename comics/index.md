@@ -8,13 +8,13 @@ title: Comics
 ##### Volume 1: What is AI?
 <!-- <p><a href="../modules/what-is-ai/index/">View comic</a> -->
 <img src="../img/1-cover.png" alt="What Is AI? Comic Cover" width="60%"/>
-<br><a href="./vol1_en.pdf">Download comic (PDF, 8.34MB)</a></p>
+<br><a href="./vol1_en.pdf">Download comic (PDF, 8.34MB)</a>
 
 <br>
 ##### Volume 2: Learning From Data
 <!-- <p><a href="../modules/learning-from-data/index/">View comic</a> -->
 <img src="../img/2-cover.png" alt="Learning form Data Comic Cover" width="60%"/>
-<br><a href="./vol2_en.pdf">Download comic (PDF, 12.4MB)</a></p>
+<br><a href="./vol2_en.pdf">Download comic (PDF, 12.4MB)</a>
 
 <br>
 ##### Volume 3: Who lives, Who dies, Who decides?
