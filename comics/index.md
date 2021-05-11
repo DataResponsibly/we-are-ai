@@ -2,7 +2,7 @@
 title: Comics
 ---
 
-### We are AI, a comic series
+### The _We are AI_ Comic Series
 
 <br>
 ##### Volume 1: What is AI?
