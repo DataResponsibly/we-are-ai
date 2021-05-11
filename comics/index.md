@@ -2,7 +2,7 @@
 title: Comics
 ---
 
-### List of Companion Comics
+### We are AI, a comic series
 
 <br>
 ##### Volume 1: What is AI?
