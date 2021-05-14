@@ -18,8 +18,8 @@ title: Comics
 
 <br>
 ##### Volume 3: Who lives, Who dies, Who decides?
+<!-- <p><a href="../modules/who-lives-who-dies-who-decides/index/">View comic</a> -->
 <img src="../img/3-cover.png" alt="Who lives, who dies, who decides? Comic Cover" width="60%"/>
-<p><a href="../modules/who-lives-who-dies-who-decides/index/">View comic</a>
 <br><a href="http://bit.ly/we-are-ai_comics_vol3_en">Download comic (PDF, 7.8MB)</a></p> 
 
 <br>
