@@ -7,10 +7,9 @@ _Suggested time: 20 min_
 
 ### Discussion (15 min)
 
-Let’s move from theory to action. Circling back to the video we watched and given what we have identified as both the promise and the drawbacks to systems such as the Administration for Children’s Services (ACS) system, it's clear we all need to be active participants in conversations about AI.
+Let’s move from theory to action. Circling back to the video we watched and given what we have identified as both the promise and the drawbacks to systems such as the Administration for Children’s Services (ACS) system, it's clear we all need to **critically engage with AI technologies**.
 
-Here is a resource about the actions we can take to continue the journey we started in this learning circle: 
-Let’s talk through this list to shape our thoughts and actions moving forward! 
+Engagement can mean different things to different people. As we have seen throughout this learning circle, we all have different backgrounds and perspectives that determine where and how we encounter AI in our lives. In order to reflect the plurality of the lives, experiences, and interests of not only you all but the many other people that will engage with this learning circle in the future, the designers of this learning circle have identified five AI Actions, or genres of engagements with AI, we can take moving forward:  
 
 <style>
 table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; padding: 15px;"}
@@ -20,7 +19,7 @@ table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; p
   <tr>
     <td>
 <b>Get Organized</b>
-<p>Connect with organizations working to make technology more equitable, for example <a href="https://d4bl.org/">Data for Black Lives</a>, the <a href="https://designjustice.org/">Design Justice Network</a> or <a href="https://www.odbproject.org/our-data-bodies-project/">Our Data Bodies</a>, or participate in government policy making efforts, for example get involved in the technology policy-making of your local city council.</p>
+<p>Connect with organizations working to make technology more equitable, for example <a href="https://d4bl.org/">Data for Black Lives</a>, the <a href="https://designjustice.org/">Design Justice Network</a> or <a href="https://www.odbproject.org/our-data-bodies-project/">Our Data Bodies</a>.</p>
 </td>
   </tr>
   <tr>
@@ -35,9 +34,24 @@ table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; p
 <p>Explore the intersections of AI in culture, arts, and media, for example by watching <a href="https://www.codedbias.com/">Coded Bias</a>, or exploring the work of artists like <a href="https://www.stephaniedinkins.com/">Stephanie Dinkins</a>.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+<b>Get Political</b>
+<p>Participate in government policy making efforts, for example get involved in the technology policy-making of your local city council.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+<b>Get Technical</b>
+<p>Learn more about computer science, math, and engineering aspects of AI, for example taking online courses on data science or stats, coding bootcamps, or applied machine learning.</p>
+    </td>
+  </tr>
+
 </table>
 
-Let’s talk about what actions appeal most to you for moving forward! 
+View <a href="https://docs.google.com/document/d/1S906D5zenDjntnPARbocxYVzK1heguSEVFxZS4VwDI0/edit">AI Actions</a>, a detailed resource outlining different initiatives aligned with the table above.
+
+This is intended to be a living document for learners to connect and grow beyond their individual cohorts. Feel free to add resources you found useful, comment, and engage!
 
 <br>
 
