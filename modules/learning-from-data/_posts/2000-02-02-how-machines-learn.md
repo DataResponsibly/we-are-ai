@@ -16,7 +16,7 @@ A **classifier** is an algorithm that makes **predictions** about the world by a
 As you watch the video, make notes of any words you don’t recognize or concepts that feel confusing.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=P_x1w8zOwSc" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/P_x1w8zOwSc" allowfullscreen></iframe>
 </div>
 
 Or [view this video on YouTube](http://bit.ly/WeareAI_LearningfromData).
