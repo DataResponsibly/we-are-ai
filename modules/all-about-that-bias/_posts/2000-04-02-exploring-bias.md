@@ -10,7 +10,7 @@ _Suggested time: 30 min_
 #### Watch "Bias in AI” (12 min)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Lt0rNZT7jew" allowfullscreen>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ViHZ1RdmPeg" allowfullscreen>
   </iframe></div>
   
 [View this video on YouTube](http://bit.ly/WeareAI_BiasinData)
