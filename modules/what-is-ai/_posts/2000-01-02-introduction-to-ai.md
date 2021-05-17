@@ -28,7 +28,7 @@ When everyone has had a chance to speak, take 1–2 minutes to reflect as a grou
 As you watch the video, make notes of any vocabulary you don’t recognize or concepts that feel confusing.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6mTeKshRgjc" allowfullscreen></iframe></div>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EMRCSXt1TC0" allowfullscreen></iframe></div>
   
 [View on YouTube](http://bit.ly/Defining_AI)
 
