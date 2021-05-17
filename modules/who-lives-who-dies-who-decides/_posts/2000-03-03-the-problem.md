@@ -12,7 +12,7 @@ _Suggested time: 15 min_
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="LINK" allowfullscreen></iframe></div>
   
-[View on YouTube](LINK)
+[View on YouTube](http://bit.ly/WeareAI_EthicsAI)
 
 <br>
 
