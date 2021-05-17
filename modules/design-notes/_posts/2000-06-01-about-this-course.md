@@ -5,7 +5,9 @@ title: About This Course
 ## About This Course
 #### Design Notes from the course creators
 
-Most existing education programs for AI assume an interest (and eventual career goal) in engineering or data science for participants. These programs are technical in nature and preclude the vast majority of people who do not have these interests or goals but are still subjected to AI in their lives. What form of AI literacy the other 99% should possess remains an ongoing question for society. A recent <a href="https://static1.squarespace.com/static/53c69580e4b08011fc2337bf/t/5e2893e4a9d342214836e832/1579717605435/CHI+2020+AI+Literacy+Paper-Camera+Ready.pdf">paper on AI literacy</a> has provided an intellectual framework for this question by defining AI literacy and providing a set of competencies that comprise it. AI literacy is defined as:
+<br>
+
+Most existing education programs for AI assume an interest (and eventual career goal) in engineering or data science for participants. These programs are technical in nature and preclude the vast majority of people who do not have these interests or goals but are still subjected to AI in their lives. What form of AI literacy the other 99% should possess remains an ongoing question for society. A 2020 <a href="https://aiunplugged.lmc.gatech.edu/wp-content/uploads/sites/36/2020/08/CHI-2020-AI-Literacy-Paper-Camera-Ready.pdf">paper on AI literacy</a> has provided an intellectual framework for this question by defining AI literacy and providing a set of competencies that comprise it. AI literacy is defined as:
 
 _“A set of **competencies** that enables individuals to critically evaluate AI technologies; communicate and collaborate effectively with AI; and use AI as a tool online, at home, and in the workplace.”_
 
