@@ -13,7 +13,7 @@ _Suggested time: 30 min_
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nkadfdC1kYE" allowfullscreen>
   </iframe></div>
   
-[View this video on YouTube](https://www.youtube.com/watch?v=nkadfdC1kYE)
+[View this video on YouTube](http://bit.ly/WeareAI_BiasAI)
 
 **References:**
 * MIT Technology Review, “Racism is poisoning online ad delivery, says Harvard professor”, February 4, 2013 ([link](https://www.technologyreview.com/2013/02/04/253879/racism-is-poisoning-online-ad-delivery-says-harvard-professor/))
