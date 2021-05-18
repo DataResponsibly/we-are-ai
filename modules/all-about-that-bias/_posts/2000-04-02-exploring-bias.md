@@ -10,10 +10,10 @@ _Suggested time: 30 min_
 #### Watch "Bias in AI” (12 min)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ViHZ1RdmPeg" allowfullscreen>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nkadfdC1kYE" allowfullscreen>
   </iframe></div>
   
-[View this video on YouTube](http://bit.ly/WeareAI_BiasinData)
+[View this video on YouTube](https://www.youtube.com/watch?v=nkadfdC1kYE)
 
 **References:**
 * MIT Technology Review, “Racism is poisoning online ad delivery, says Harvard professor”, February 4, 2013 ([link](https://www.technologyreview.com/2013/02/04/253879/racism-is-poisoning-online-ad-delivery-says-harvard-professor/))
