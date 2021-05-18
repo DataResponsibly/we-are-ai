@@ -10,7 +10,7 @@ _Suggested time: 15 min_
 ### Watch "Ethics in AI" (9 min)
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IeWLfHC9bSI" allowfullscreen></iframe></div>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/F7P5aGqhFWs" allowfullscreen></iframe></div>
   
 [View on YouTube](http://bit.ly/WeareAI_EthicsAI)
 
