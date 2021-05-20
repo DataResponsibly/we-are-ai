@@ -5,20 +5,17 @@ title: About This Course
 
 <p></p>
 
-<p>**We Are AI**  is a dynamic collaboration between the Center for Responsible AI ([R/AI](http://airesponsibly.com/)) at New York University's Tandon School of Engineering, Peer 2 Peer University ([P2PU](https://www.p2pu.org/en/)), and the Queens Public Library ([QPL](https://learningcircles.p2pu.org/en/signup/online-1699/)).</p>
+**We Are AI**  is a dynamic collaboration between the Center for Responsible AI ([R/AI](http://airesponsibly.com/)) at New York University's Tandon School of Engineering, Peer 2 Peer University ([P2PU](https://www.p2pu.org/en/)), and the Queens Public Library ([QPL](https://learningcircles.p2pu.org/en/signup/online-1699/)).
   
-<p>Course materials were developed under the leadership of Dr. Eric Corbett and Dr. Julia Stoyanovich, with input and participation of Dr. Mona Sloane, Falaah Arif Khan, Meghan McDermott from R/AI, Becky Margraf and Grif Peterson from P2PU, and Jeffrey Lambert, Sadie Coughlin-Prego, Kaven Vohra from QPL.</p>
+Course materials were developed under the leadership of Dr. Eric Corbett and Dr. Julia Stoyanovich, with input and participation of Dr. Mona Sloane, Falaah Arif Khan, Meghan McDermott from R/AI, Becky Margraf and Grif Peterson from P2PU, and Jeffrey Lambert, Sadie Coughlin-Prego, Kaven Vohra from QPL.
   
-<p>Course development was supported in part by NSF Awards No. 
+Course development was supported in part by NSF Awards No. 
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934464">1934464</a> and 
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1916505">1916505</a>.
-</p>
 
 <br>
 
 ### Design Notes from the course creators
-
-<br>
 
 Most existing education programs for AI assume an interest (and eventual career goal) in engineering or data science for participants. These programs are technical in nature and preclude the vast majority of people who do not have these interests or goals but are still subjected to AI in their lives. What form of AI literacy the other 99% should possess remains an ongoing question for society. A 2020 <a href="https://aiunplugged.lmc.gatech.edu/wp-content/uploads/sites/36/2020/08/CHI-2020-AI-Literacy-Paper-Camera-Ready.pdf">paper on AI literacy</a> has provided an intellectual framework for this question by defining AI literacy and providing a set of competencies that comprise it. AI literacy is defined as:
 
