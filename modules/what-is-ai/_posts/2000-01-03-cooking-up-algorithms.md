@@ -3,7 +3,7 @@ title: Cooking Up Algorithms
 ---
 
 ## Cooking Up Algorithms
-_Suggested time: 35 min_
+_Suggested time: 30 min_
 
 A computer algorithm is just like a recipe: it solves a problem (providing a meal) with a procedure that transforms some inputs (ingredients) into an output (a loaf of bread).  Software engineers write these “recipes” using code that acts as instructions for computers to follow. We won’t write code in this learning circle, instead we will think about the steps in plain language as a recipe. 
 
@@ -39,7 +39,7 @@ For each recipe discussion, ask the author to answer the following questions:
 
 <br>
 
-### Stakeholders and values (10 min)
+### Group discussion: Stakeholders and values (10 min)
 
 Think about the recipes you’ve just explored. It’s likely that the same prompt (“write out instructions for making chicken noodle soup”) means different things to each person who answers it. Sometimes these differences are small (like the amount of seasonings used), and sometimes they’re vast (like if you’re a vegetarian)! 
 
@@ -53,7 +53,9 @@ Building on our activity above, let’s consider an example of using one of our 
 * A consumer who buys a bowl of soup for lunch.  
 * The owner of the cafe where the soup is sold.
 
-What do these stakeholders value that could impact which recipe we should choose? Match stakeholders with values in the form below. Feel free to add stakeholders and values to this list.
+As a group, explore the following question:
+
+* What do these stakeholders value that could impact which recipe we should choose? Match stakeholders with values in the form below. Are there any stakeholders or values missing from this example?
 
 ```
 VAUES                                    STAKEHOLDERS
@@ -65,13 +67,8 @@ VAUES                                    STAKEHOLDERS
 * (...)
 ```
 
-<br>
+Whenever we decide to use an algorithm (like a recipe) in a context that affects people (like a cafe), the context we are in will have its own unique list of stakeholders and values.  Let's explore the following two questions:
 
-### Group discussion (5 min)
+* Can any of the soup recipes be “the best”? What qualities would you look for to decide which recipe is “the best”? Who should decide which recipe is used?
+* Would a recipe chosen for the cafe scenario work in a different context? How would your recipe change if instead you were cooking at home (for yourself and your family) or at an elementary school cafeteria (to feed 300 kids at lunch)?
 
-As a group, explore the following questions:
-* Are there any reasons why you might not be able to use the instructions as they have been written? (E.g., food allergies, utensils or appliances needed, cooking skills required)
-* Would these recipes work in different contexts? How would your recipe change if you were cooking at home (for yourself and your family) vs. at a cafe (for sale to customers) vs. at an elementary school cafeteria (to feed 300 kids at lunch)? 
-* Can any of these recipes be “the best”? What qualities would you look for to decide which recipe is “the best”? Who should decide which recipe is used? 
-
-In summary, whenever we decide to use an algorithm (like a recipe) in a context that affects people (like a cafe), the context we are in will have its own unique list of stakeholders and values. 
