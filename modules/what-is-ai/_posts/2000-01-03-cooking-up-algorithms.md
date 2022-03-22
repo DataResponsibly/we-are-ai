@@ -45,7 +45,7 @@ Think about the recipes you’ve just explored. It’s likely that the same prom
 
 We can explore the impact of these differences on our decision making by thinking about stakeholders and values.
 
-A *stakeholder* is an individual, a group, or an organization that may be affected by a decision, directly or indirectly.  These effects can be positive or negative, depending on stakeholders’ *values*.  
+A **stakeholder** is an individual, a group, or an organization that may be affected by a decision, directly or indirectly.  These effects can be positive or negative, depending on stakeholders’ **values**.  
 
 Building on our activity above, let’s consider an example of using one of our recipes to make chicken noodle soup for sale at a cafe. In that scenario, we may think of this list of stakeholders:
 
