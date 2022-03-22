@@ -65,6 +65,8 @@ VAUES                                    STAKEHOLDERS
 * (...)
 ```
 
+<br>
+
 ### Group discussion (5 min)
 
 As a group, explore the following questions:
