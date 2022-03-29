@@ -5,7 +5,7 @@ title: How Machines Learn
 ## How Machines Learn
 _Suggested time: 25 min_
 
-“Machine learning” refers to the techniques that computers use to automatically find patterns in data, and to use these patterns to draw inferences or make predictions. We call this _learning from data_. In this module, we’ll explore how machines learn from data and how people can critically interpret that data collection.
+“Machine learning” refers to the techniques that computers use to automatically find patterns in data.  They then use patterns to draw inferences or make predictions. We call this _learning from data_. In this module, we’ll explore how machines learn from data and how people can critically interpret that data collection.
 
 <br>
 
@@ -24,7 +24,7 @@ Or [view this video on YouTube](http://bit.ly/WeareAI_LearningfromData).
 
 ### Group discussion (10 min)
 
-As we discussed in Module 1, data is the key to AI, and it comes in many forms.  
+As we discussed in Module 1, **data** is the key to AI.   Data is commonly used as another word for information. Oftentimes data is gathered in a specific format suitable for use on a computer (e.g., a spreadsheet),  but it can come in many forms.
 
 The first kind of data is the **input**.  We call the input to the classifier (e.g., whether it’s dark outside and whether it’s bedtime) the **features**.  When we design AI tools, we use our everyday intelligence to decide which features to use as input.  
 
