@@ -31,7 +31,9 @@ We don’t know what Herzberg was thinking when she set off into the road. Nor d
 
 ## Apply (15 mins)
 
-In breakout groups of 3–4 people, take 15 minutes to fill out the [values/stakeholder matrix](https://blog.dataiku.com/algorithmic-stakeholders-an-ethical-matrix-for-ai) below. The purpose of the matrix is to help consider each stakeholder in relation to pertinent values with the assumption being that values might be held in common but interpreted differently. **_Each cell is filled in with a statement of what the value means for the stakeholder._**
+In Module 1 we spoke about stakeholders and values, using the sale of chicken noodle soup at a cafe as an example.  Now, let’s think about stakeholders and their values in Elaine’s story. 
+
+In breakout groups of 3–4 people, take 15 minutes to fill out the [matrix](https://blog.dataiku.com/algorithmic-stakeholders-an-ethical-matrix-for-ai) below to connect stakeholders to their values. **_Each cell is filled in with a statement of what the value means for the stakeholder._**
 
 Below is a partially completed matrix based on the scenario we just read. Complete the remaining stakeholders/values as a group. 
 
@@ -46,40 +48,40 @@ Below is a partially completed matrix based on the scenario we just read. Comple
   <tr>
     <th></th>
     <th class="tint">Safety</th>
-    <th class="tint">Accountability</th> 
-    <th class="tint">Value #3</th>
-    <th class="tint">Value #4</th>
+    <th class="tint">Convenience</th> 
+    <th class="tint">Accountability</th>
+    <th class="tint">...</th>
   </tr>
-  <tr>
+ <!-- <tr>
     <td class="tint">The National Transportation Safety Board</td>
     <td>Ensuring safety standards for self-driving cars are established to make roads safe</td>
     <td></td>
     <td></td>
     <td></td>
-  </tr>
+  </tr> -->
   <tr>
     <td class="tint">The cyclist</td>
+    <td>Wants to be safe while on the road</td>
+    <td><i>doesn't apply</i></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="tint">The driver</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td class="tint">Stakeholder #3</td>
+    <td class="tint">Uber</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td class="tint">Stakeholder #4</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td class="tint">Stakeholder #5</td>
+    <td class="tint">...</td>
     <td></td>
     <td></td>
     <td></td>
