@@ -25,7 +25,7 @@ Imagine that you were hired by a credit card company to design an algorithm that
   <tr>
     <th>Input feature</th>
     <th>Why is this feature informative?</th> 
-    <th>How would you get this feature?</th>
+    <th>How would you get this feature? (Data source)</th>
   </tr>
   <tr>
     <td>transaction amount</td>
@@ -76,7 +76,7 @@ Otherwise not fraudulent
 Return to the full group and take turns sharing your fraud detection classifiers. Authors can share the written text or read the description of the features and of the rules out loud. 
 
 For each classifier, ask the author to answer the following questions:
-* What did you want to achieve with your classifier rule? (E.g., catch every possible case of fraud, minimize inconvenience for people travelling)
+* What did you want to achieve with your classifier rule? (E.g., catch every possible case of fraud, minimize inconvenience for people traveling)
 * How would you check that your classifier works?
 * Who benefits when the classifier works?
 * What errors might the classifier make, and who is harmed by these errors?
