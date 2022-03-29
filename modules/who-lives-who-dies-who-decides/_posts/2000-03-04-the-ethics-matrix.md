@@ -5,7 +5,7 @@ title: The Ethics Matrix
 ## The Ethics Matrix
 _Suggested time: 35 min_
 
-In the video, you learned about “algorithmic morality.” In this activity we will dive deeper into this topic by exploring a real-world situation where a woman was killed after being hit by a self-driving car during a test-drive by Uber. In a report on the incident, The National Transportation Safety Board blamed Uber for its poor safety culture and took issues with the rules that govern the testing of self-driving cars on public roads. But it also noted that there were methamphetamines found in the victim’s system, which may have impaired her ability to react to an approaching vehicle.
+In the video, you learned about **algorithmic morality**. In this activity we will dive deeper into this topic by exploring a real-world situation where a woman was killed after being hit by a self-driving car during a test-drive by Uber. In a report on the incident, The National Transportation Safety Board blamed Uber for its poor safety culture and took issues with the rules that govern the testing of self-driving cars on public roads. But it also noted that there were methamphetamines found in the victim’s system, which may have impaired her ability to react to an approaching vehicle.
 
 Read the following story of the incident: 
 
