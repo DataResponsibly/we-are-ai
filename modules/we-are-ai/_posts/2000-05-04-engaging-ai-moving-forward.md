@@ -19,19 +19,19 @@ table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; p
   <tr>
     <td>
 <b>Get Organized</b>
-<p>Connect with organizations working to make technology more equitable, for example Data for Black Lives, the Design Justice Network, or Our Data Bodies.</p>
+<p>Connect with organizations working to make technology more equitable, for example <a href="https://d4bl.org/">Data for Black Lives</a>, the <a href="https://designjustice.org/">Design Justice Network</a>, or <a href="https://www.odbproject.org/">Our Data Bodies</a>.</p>
 </td>
   </tr>
   <tr>
     <td>
 <b>Get Educated</b>
-<p>Engage the social, political, and cultural impacts of AI, for example read _Automating Inequality_ by Virginia Eubanks, or __Algorithms of Oppression__ by Safiya Umjoa Noble.</p>
+<p>Engage the social, political, and cultural impacts of AI, for example read <i>Automating Inequality</i> by Virginia Eubanks, or <i>Algorithms of Oppression</i> by Safiya Umjoa Noble.</p>
     </td>
   </tr>
   <tr>
     <td>
 <b>Get Creative</b>
-<p>Explore the intersections of AI in culture, arts, and media, for example by watching _Coded Bias_ or exploring the work of artists like Stephanie Dinkins.</p>
+<p>Explore the intersections of AI in culture, arts, and media, for example by watching <i>Coded Bias</i> or exploring the work of artists like Stephanie Dinkins.</p>
     </td>
   </tr>
   <tr>
