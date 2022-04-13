@@ -9,7 +9,7 @@ _Suggested time: 20 min_
 
 Let’s move from theory to action. Circling back to the video we watched and given what we have identified as both the promise and the drawbacks to systems such as the Administration for Children’s Services (ACS) system, it's clear we all need to **critically engage with AI technologies**.
 
-Engagement can mean different things to different people. As we have seen throughout this learning circle, we all have different backgrounds and perspectives that determine where and how we encounter AI in our lives. In order to reflect the plurality of the lives, experiences, and interests of not only you all but the many other people that will engage with this learning circle in the future, the designers of this learning circle have identified five AI Actions, or genres of engagements with AI, we can take moving forward:  
+Engagement can mean different things to different people. As we have seen throughout this learning circle, we all have different backgrounds and perspectives that determine where and how we encounter AI in our lives. In order to reflect the variety of the lives, experiences, and interests of not only you all but the many other people that will engage with this learning circle in the future, the designers of this learning circle have identified five AI Actions, or genres of engagements with AI, we can take moving forward:  
 
 <style>
 table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; padding: 15px;"}
@@ -25,7 +25,7 @@ table, td, tr {width:100%; border: 1px solid black; border-collapse: collapse; p
   <tr>
     <td>
 <b>Get Educated</b>
-<p>Engage the social, political, and cultural impacts of AI, for example read _Automating Inequality_ by Virginia Eubanks, or _Algorithms of Oppression_ by Safiya Umjoa Noble.</p>
+<p>Engage the social, political, and cultural impacts of AI, for example read _Automating Inequality_ by Virginia Eubanks, or __Algorithms of Oppression__ by Safiya Umjoa Noble.</p>
     </td>
   </tr>
   <tr>
