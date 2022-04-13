@@ -5,7 +5,7 @@ title: Evaluating Automated Decision Systems
 ## Evaluating Automated Decision Systems
 _Suggested time: 35 min_
 
-As we saw in the video, Automated Decision Systems aid or replace human decisions. The decisions these systems make take many forms: predicting, classifying, optimizing, identifying, recommending, scoring, and adjudicating. Depending on where and how these decisions are made, these systems can have an impact on our opportunities, safety, rights, and behaviors. 
+As we saw in the video, Automated Decision Systems aid or replace human decisions. The decisions these systems make take many forms: predicting, classifying, optimizing, identifying, recommending, scoring, and judging. Depending on where and how these decisions are made, these systems can have an impact on our opportunities, safety, rights, and behaviors. 
 
 <br>
 
@@ -22,7 +22,7 @@ You are doing well, looking after your three year old daughter Nicole on your ow
   </p><p>
 Nicole is found by a neighbor, barefoot, cold and lost, trying to find her Nana's house (where you have walked with her many times). The worried neighbor settles Nicole, who is very upset, and returns her to your care. On returning home the neighbor calls Child Welfare Services and <b>the intake worker decides to recommend an investigation</b>.
   </p><p>
-The next day you pick up Nicole from daycare and are very embarrassed to hear that a case worker has visited the daycare centre to make inquiries about you and your family situation. <b>The case worker also visits your home and informs you that you are under investigation, which involves checking on any previous welfare or criminal records, and that the outcome could take some weeks.</b>
+The next day you pick up Nicole from daycare and are very embarrassed to hear that a case worker has visited the daycare center to make inquiries about you and your family situation. <b>The case worker also visits your home and informs you that you are under investigation, which involves checking on any previous welfare or criminal records, and that the outcome could take some weeks.</b>
   </p><p>
 Imagine the same scenario, but where Child Welfare Services have introduced a computer tool to help workers make more informed decisions about whether to recommend an investigation or not.
   </p><p>
@@ -30,11 +30,11 @@ Imagine the same scenario, but where Child Welfare Services have introduced a co
 </p><p>
 Since you have no history with Child Welfare Services and no criminal record, <b>Nicole's risk score is assessed as being low and does not result in an investigation.</b>
   </p><p>
-It is now nine years later and Nicole is 12. She is going through some difficult times - she has fallen in with a bad crowd and one afternoon you ground her because of bad behaviour. Late that evening she jumps out her bedroom window and runs away to a friend's place. Police are concerned to see her walking alone late at night and bring her home.
+It is now nine years later and Nicole is 12. She is going through some difficult times - she has fallen in with a bad crowd and one afternoon you ground her because of bad behavior. Late that evening she jumps out her bedroom window and runs away to a friend's place. Police are concerned to see her walking alone late at night and bring her home.
   </p><p>
 You explain what has happened, but they are required to inform Child Welfare Services.
   </p><p>
-<b>The next day you receive a visit from a social worker who says that the computer tool they are using scored Nicole as being at high risk. This is because your new partner has a previous domestic violence investigation on his record and together with your data record in the Child Welfare Services system there is possibility of a pattern.</b></p>
+<b>The next day you receive a visit from a social worker who says that the computer tool they are using scored Nicole as being at high risk. This is because your new partner has a previous domestic violence investigation on his record and together with your data record in the Child Welfare Services system there is a possibility of a pattern.</b></p>
 </div>
 
 <br>
