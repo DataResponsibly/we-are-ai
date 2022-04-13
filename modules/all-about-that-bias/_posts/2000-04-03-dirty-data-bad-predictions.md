@@ -7,9 +7,9 @@ _Suggested time: 30 min_
 
 As we already saw, a common task for machine learning algorithms is classifying: classifying credit card transactions as “fraud” or “not fraud”, or classifying job applicants as “promising” or “not promising.” To perform these tasks, machines need to be trained on data. In this activity, you will interact with a machine learning application to screen job applicants at a fictional retail company called Stock-Mart and analyze the data used to train the application. 
 
-The retail giant Stock-Mart has developed a machine learning algorithm to help screen applicants for hiring. Stock-Mart has trained this algorithm using data (photos) from previously “successful” employees. Success in this context was defined as: never missed a day of work, worked at the company for at least four years, was promoted at least once. 
+The retail giant Stock-Mart has developed a machine learning algorithm to help screen applicants for hiring. Stock-Mart has trained this algorithm using data (photos) from previously “successful” employees. Success in this context was defined as: (1) never missed a day of work, (2) worked at the company for at least four years, and (3) was promoted at least once. 
 
-Using photos of employees that met and did not meet this criteria, the algorithm learned what successful and unsuccessful employees looked like. Based on this training data, the system predicts which job applicants should be high or low priority candidates to interview by scanning their faces. Stock-Mart is excited as they think that this application will help the human resource department save time by screening applicants. But is it fair? 
+Using photos of employees that met and did not meet this criteria, the algorithm learned what successful and unsuccessful employees looked like. Based on this training data, the system predicts which job applicants should be high or low priority candidates to interview by scanning their faces. Stock-Mart is excited as they think that this tool will help the human resource department save time by screening applicants. But is it fair? 
 
 <br>
 
