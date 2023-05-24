@@ -1,8 +1,11 @@
+<!-- Navigation -->
 <nav class="navbar navbar-expand-md py-0 .navbar-dark bg-dark text-light">
   <a class="navbar-brand" href="{{site.baseurl}}/"><i class="fa fa-home"></i></a>
+
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <i class="fa fa-bars"></i>
   </button>
+
   <div class="navbar-collapse collapse" id="navbarSupportedContent">
     <ul class="navbar-nav">
       {% for module in site.data.course.modules %}
@@ -13,8 +16,11 @@
          </a>
        </li>
       {% endfor %}
+
       <li class="nav-item py-2">
         <a class="nav-link" href="/we-are-ai/glossary">Glossary</a>
-        <a class="nav-link" href="{{ site.baseurl }}/glossary">Glossary</a>
       </li>
+
     </ul>
+  </div>
+</nav>
